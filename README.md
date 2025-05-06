@@ -1,4 +1,4 @@
-#Hexapawn Project
+# Hexapawn Project
 This project implements the game Hexapawn, where the player competes against a computer on a 3x3 board.
 The game is played entirely through the command line.
 The computer uses the Minimax algorithm with optional Alpha-Beta Pruning to calculate optimal moves.
